@@ -1,7 +1,7 @@
 Mikey and Matteo writing a boot loader
 
 Dependencies:
-gnu-efi (headers)
+gnu-efi
 
 Testing:
 qemu

@@ -24,4 +24,3 @@ qemu-system-x86_64 \
   -drive if=pflash,format=raw,file="$VARS_FD" \
   -drive file=fat:rw:$ESP_DIR,format=raw \
   -net none
-
